@@ -5,8 +5,4 @@ from OpenGL.GL import *
 
 from OpenGL.GLU import *
 
-def display(particles):
-    for particle in particles:
-
-
 

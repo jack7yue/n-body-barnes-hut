@@ -1,4 +1,4 @@
-from BarnesHut import Body
+from barnes_hut import Body
 import numpy as np
 
 STRUCTURAL_LENGTH = 1.0
