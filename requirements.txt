@@ -1,0 +1,4 @@
+Numpy
+PyOpenGl
+PyOpenGL_accelerate
+glfw
